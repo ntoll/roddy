@@ -1,7 +1,7 @@
 # Roddy
 
-A Python module for use with PyScrpit, to generate music and expressive audio
-based upon musical concepts in code.
+A Python module for use with [PyScript](https://pyscript.net), to generate
+music and expressive audio based upon musical concepts in code.
 
 Named after Roddy Swanston, my musical analysis teacher at the
 [Royal College of Music](https://rcm.ac.uk/).
